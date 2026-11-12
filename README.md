@@ -1,0 +1,1 @@
+An e-commerce platform that allows users to browse products, manage shopping carts, and securely complete online purchases.
